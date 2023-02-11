@@ -1,5 +1,7 @@
 package com.xiaoma.code_77;
 
+import org.junit.jupiter.api.Test;
+
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
@@ -41,5 +43,10 @@ class Solution {
             });
             System.out.println();
         });
+    }
+
+    @Test
+    public void test01() {
+
     }
 }
